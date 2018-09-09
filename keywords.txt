@@ -7,4 +7,4 @@ updateLocation	KEYWORD2
 retrieveDestination	KEYWORD2
 readDistanceSensor	KEYWORD2
 print	KEYWORD2
-println KEYWORD2
+println	KEYWORD2
